@@ -16,4 +16,3 @@ This is a **weather forcasting** application. When any user download this applic
 
 ![playStore](https://user-images.githubusercontent.com/89797141/210098886-b3cc3319-8c38-4a31-a406-f7d58f10ae0c.png)
 
-[Download](https://play.google.com/store/apps/details?id=com.smartweather.smartweather)
